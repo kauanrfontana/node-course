@@ -16,5 +16,8 @@
     "url": "https://github.com/kauanrfontana/node-course/issues"
   },
   "homepage": "https://github.com/kauanrfontana/node-course#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "git-commit-msg-linter": "^5.0.8"
+  }
 }
